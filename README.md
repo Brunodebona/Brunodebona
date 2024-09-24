@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Brunodebona
-- 👀 I’m interested in aprender 
-- 🌱 I’m currently learning linguagens de programação
-- 💞️ I’m looking to collaborate no que puder 
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning 
+programming languages
+- 💞️I'm looking to collaborate in any way I can
 - 📫 How to reach me Instagran @debonas_
 
 <!---
