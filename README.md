@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning 
 programming languages
-- 💞️I'm looking to collaborate in any way I can
+- I'm looking to collaborate in any way I can
 - 📫 How to reach me Instagran @debonas_
 
 <!---
