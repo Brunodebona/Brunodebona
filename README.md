@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brunodebona
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning 
-programming languages
+- 🌱 Currently an Industrial assembler and studying Software Engineering, loving learning programming!!!
 - I'm looking to collaborate in any way I can
 - 📫 How to reach me Instagran @debonas_
 
